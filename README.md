@@ -1,6 +1,5 @@
 # 💫 About Me:
-Euhm, hi..
-I am a software dev From the Netherlands
+.
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
